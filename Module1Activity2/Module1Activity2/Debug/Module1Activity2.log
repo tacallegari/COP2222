@@ -1,0 +1,4 @@
+﻿  Module1Activity2.cpp
+C:\Users\Tahlia\source\repos\Module1Activity2\Module1Activity2\Module1Activity2.cpp(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tahlia\source\repos\Module1Activity2\Module1Activity2\Module1Activity2.cpp(109,23): warning C4018: '<': signed/unsigned mismatch
+  Module1Activity2.vcxproj -> C:\Users\Tahlia\source\repos\Module1Activity2\Debug\Module1Activity2.exe
